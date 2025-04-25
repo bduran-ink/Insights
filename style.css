@@ -2,8 +2,8 @@ a {
     color: "blue"
 }
 
-.container {
-    font-size: 1.3em;
-    width: 25em;
-    background: block (
+.container{
+    border: 1px solid pink;
+    background: "pink"
+    padding : 5%;
 }
