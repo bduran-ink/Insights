@@ -3,7 +3,9 @@ a {
 }
 
 .container{
-    border: 1px solid black
-    background: "pink"
-    padding : 5%;
+    border: 1px solid black;
+    background-color: pink;
+    color: white;
+    padding: 5% 0;
+    margin: 1% 0;
 }
