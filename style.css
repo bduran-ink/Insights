@@ -3,7 +3,9 @@ a {
 }
 
 .box {
-    background-color: black
-    border: 10px solid pink;
-    padding: 10px ;
+    width: 400px
+    height: 400px
+    background-color: pink
+    border: 1px solid black
+
 }
